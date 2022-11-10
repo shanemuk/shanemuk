@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Dr Shane McKee, Consultant in Genetic Medicine at Belfast Health & Social Care Trust in Northern Ireland.
+
+This set of repositories represents some stuff I am working on in a purely personal capacity (unless specified otherwise), and when/if I find time to give them the attention they so desperately need. Enjoy.
 
 <!--
 **shanemuk/shanemuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<html>
+<a rel="me" href="https://mastodon.ie/@Shanemuk">Have a look at what I'm at over on Mastodon.ie...</a>
+</html>
