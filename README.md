@@ -1,6 +1,9 @@
-# Hi there 👋
+# Hi there!
+-----
+| [Website](https://shanemuk.github.io) |
+-----
+
 ## I'm Dr Shane McKee, Consultant in Genetic Medicine at Belfast Health & Social Care Trust in Northern Ireland.
-### My personal site is on https://shanemuk.github.io/ 
 
 This set of repositories represents some stuff I am working on in a purely personal capacity (unless specified otherwise), and when/if I find time to give them the attention they so desperately need. Enjoy.
 
