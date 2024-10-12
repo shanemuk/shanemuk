@@ -1,14 +1,14 @@
 # Hi there!
 -----
-| [Website](https://shanemuk.github.io) | [Tw: @shanemuk](https://twitter.com/shanemuk) | [@shanemuk@mastodon.ie](https://mastodon.ie/@shanemuk) | [McKee Laboratory](http://github.com/mckeelab)
+| [Website](https://shanemuk.github.io) | [Tw: @shanemuk](https://twitter.com/shanemuk) | [Bluesky: shaneir.bsky.social](https://bsky.app/profile/shaneir.bsky.social) | [McKee Base](http://github.com/mckeebase)
 -----
 
 ## I'm Dr Shane McKee, Consultant in Genetic Medicine at Belfast Health & Social Care Trust in Northern Ireland.
 
 This set of repositories represents some stuff I am working on in a purely personal capacity (unless specified otherwise), and when/if I find time to give them the attention they so desperately need. Enjoy.
 
-### [McKee Laboratory](http://github.com/mckeelab)
-Developing tools and processes for Digital Healthcare.
+### [McKee Base](http://github.com/mckeebase)
+My lab for developing tools and processes for Digital Healthcare.
 
 <!--
 **shanemuk/shanemuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html>
-<a rel="me" href="https://mastodon.ie/@shanemuk">Have a look at what I'm at over on Mastodon.ie/@shanemuk...</a>
-</html>
-Also still on Twitter @shanemuk.
+Also still on Twitter ("X") @shanemuk but not so much.
